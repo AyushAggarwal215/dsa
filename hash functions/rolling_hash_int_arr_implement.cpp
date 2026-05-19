@@ -1,3 +1,7 @@
+// Rolling hash implementation for integer arrays
+// leetcode question: 3934. Smallest Unique Subarray
+// link: https://leetcode.com/problems/smallest-unique-subarray/description/
+
 #include <bits/stdc++.h>
 using namespace std;
 class Solution {
