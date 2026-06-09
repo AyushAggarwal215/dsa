@@ -1,4 +1,5 @@
 #include<vector>
+#include <bits/stdc++.h>
 
 // code for finding bridges in a graph
 
