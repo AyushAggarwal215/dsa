@@ -1,4 +1,6 @@
-#include <bits/stdc++.h> 
+#include <bits/stdc++.h>
+#include <vector>
+using namespace std;
 int detectCycleInDirectedGraph(int n, vector < pair < int, int >> & edges) {
   vector<vector<int>> adj(n+1);
     for(int i = 0; i<edges.size(); i++){
